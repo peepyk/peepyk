@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="/img/name.svg" alt="Peepyk"/>
 </h1>
+
 <p align="center">
     <a href="https://git.io/typing-svg">
         <img 
@@ -8,6 +9,7 @@
         />
     </a>
 </p>
+
 <h2>Skills & Technologies</h2>
 <div align="center">
     <img
@@ -27,10 +29,14 @@
 <a href="https://wakatime.com/share/@2fc4c9cb-5e2f-4907-b9db-19e637b87e19/47cde05d-7653-4a95-8540-8f01098f1b3e.svg" target="_blank">
   <img src="https://wakatime.com/share/@2fc4c9cb-5e2f-4907-b9db-19e637b87e19/47cde05d-7653-4a95-8540-8f01098f1b3e.svg" alt="WakaTime Stats"/>
 </a>
+
 <h2>TryHackMe</h2>
-<a align="center" href="https://tryhackme.com/r/p/spskagerjos" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/spskagerjos.png" alt="TryHackMe Stats" />
-</a>
+<div align="center">
+    <a href="https://tryhackme.com/r/p/spskagerjos" target="_blank">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/spskagerjos.png" alt="TryHackMe Stats" />
+    </a>
+</div>
+
 <h2>Monkeytype</h2>
 <a href="https://monkeytype.com/profile/peepyk" target="_blank">
   <img src="/img/monkeytype.png" alt="Monkeytype Stats"/>
