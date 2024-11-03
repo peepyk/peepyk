@@ -28,7 +28,7 @@
   <img src="https://wakatime.com/share/@2fc4c9cb-5e2f-4907-b9db-19e637b87e19/47cde05d-7653-4a95-8540-8f01098f1b3e.svg" alt="WakaTime Stats"/>
 </a>
 <h2>TryHackMe</h2>
-<a href="https://tryhackme.com/r/p/spskagerjos" target="_blank">
+<a align="center" href="https://tryhackme.com/r/p/spskagerjos" target="_blank">
   <img src="https://tryhackme-badges.s3.amazonaws.com/spskagerjos.png" alt="TryHackMe Stats" />
 </a>
 <h2>Monkeytype</h2>
