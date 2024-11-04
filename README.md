@@ -30,7 +30,6 @@
 <a href="https://wakatime.com/@2fc4c9cb-5e2f-4907-b9db-19e637b87e19" target="_blank">
     <img src="https://wakatime.com/badge/user/2fc4c9cb-5e2f-4907-b9db-19e637b87e19.svg"></img>
 </a>
-<p>Language graph</p>
 <a href="https://wakatime.com/share/@2fc4c9cb-5e2f-4907-b9db-19e637b87e19/47cde05d-7653-4a95-8540-8f01098f1b3e.svg" target="_blank">
   <img src="https://wakatime.com/share/@2fc4c9cb-5e2f-4907-b9db-19e637b87e19/47cde05d-7653-4a95-8540-8f01098f1b3e.svg" alt="WakaTime Stats"/>
 </a>
