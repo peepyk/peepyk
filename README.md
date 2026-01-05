@@ -24,9 +24,9 @@
 <br>
 
 <!--START_SECTION:waka1-->
-![Code Time](http://img.shields.io/badge/Code%20Time-954%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-954%20hrs%2049%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-683.70%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-683.70%20thousand%20lines%20of%20code-blue?style=flat)
 
 
 <!--END_SECTION:waka1-->
